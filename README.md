@@ -17,7 +17,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-square&logo=Visual%20Studio%20Code&logoColor=white)
   
 ## 📬 Contacts
-insta: wonjinzz
+Insta: wonjinzz
 
 <!--
 **wonjinzz/wonjinzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
